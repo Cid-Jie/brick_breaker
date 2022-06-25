@@ -1,0 +1,21 @@
+body{
+    background-image: url("../images/brick-wall.jpg"); 
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+canvas { 
+    background-image: url("../images/font-wall.jpg"); 
+    display: block; 
+    margin: 0 auto;
+}
+
+#start {
+    margin-left: 220px;
+    color: black;
+    font-weight: 600;
+}
